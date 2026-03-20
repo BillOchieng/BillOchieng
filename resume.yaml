@@ -1,0 +1,136 @@
+basics:
+  name: Bill Ochieng
+  phone: "(814) 350-8122"
+  email: billochieng001@gmail.com
+  location:
+    city: Mayfield Heights
+    state: Ohio
+    country: USA
+  profiles:
+    - network: GitHub
+      url: https://github.com/BillOchieng
+
+summary: >
+  Proactive and meticulous Associate Data Analyst with experience in
+  comprehensive data analysis, financial data analysis, and report creation.
+  Skilled in predictive analytics, SQL optimization, and risk assessment.
+
+education:
+  - institution: Allegheny College
+    location: Meadville, PA
+    degree: Bachelor of Science
+    majors:
+      - Computer Science
+      - Economics
+    graduation: May 2024
+    gpa: 3.4
+    coursework:
+      - Data Analytics
+      - Statistics
+      - Database Systems
+      - Algorithm Analysis
+      - Discrete Structures
+      - Software Engineering
+
+skills:
+  strong:
+    - SQL
+    - Python
+    - R
+    - Excel
+    - Power BI
+    - Tableau
+    - Google Analytics
+
+  experienced:
+    - JavaScript
+    - HTML
+    - CSS
+    - Java
+    - Heroku
+    - Streamlit
+    - Scikit-learn
+    - Apache Hive
+    - Git
+    - Flask
+    - TypeScript
+    - Netlify
+
+certifications:
+  - Data Analysis with Python and R – Allegheny College
+  - Software Development with Python – Allegheny College
+
+experience:
+  - company: Community Behavioral Health Center
+    location: Cleveland, OH
+    position: Associate Data Analyst
+    start: July 2024
+    end: Present
+    highlights:
+      - Pulled payroll and productivity data using SQL from the Credible EMR system.
+      - Analyzed payroll and provider productivity data using Excel to ensure billing accuracy.
+      - Conducted compliance audits and regulatory reporting.
+      - Collaborated with IT leadership to analyze value-based care initiative data.
+
+  - company: Residence Life, Allegheny College
+    location: Meadville, PA
+    position: Tech & IT Intern
+    start: August 2023
+    end: April 2024
+    highlights:
+      - Maintained housing databases and resolved data integrity issues.
+      - Provided IT support to 58 Residence Advisors.
+      - Helped restore wireless connectivity during a campus WiFi outage.
+
+  - company: Advise-A-Gator, Allegheny College
+    location: Meadville, PA
+    position: Software Engineer Intern
+    start: May 2023
+    end: August 2023
+    highlights:
+      - Built an interactive dashboard using JavaScript.
+      - Converted course data into JSON to reduce redundancy by 50%.
+      - Led a three-member development team using React and Node.js.
+
+projects:
+  - name: Credit Card Fraud Detection System
+    role: Machine Learning Engineer
+    period: Aug 2023 – May 2024
+    highlights:
+      - Built fraud detection models using Logistic Regression and KNN.
+      - Analyzed over 1 million financial transactions.
+      - Used Pandas, Scikit-learn, and StandardScaler.
+      - Deployed the model with Flask.
+      - Visualized results using Matplotlib.
+
+  - name: Aerospace Manufacturing Data Analysis
+    role: Database Analyst
+    organization: Acutec Precision Aerospace
+    period: Nov 2023 – Dec 2023
+    highlights:
+      - Analyzed over 1 million manufacturing records using SQL.
+      - Identified defective aerospace parts and reduced production waste.
+      - Investigated nonconformance issues in $221M aerospace orders.
+
+leadership:
+  - organization: Data Exploration – Allegheny College
+    role: Technical Leader
+    period: Jan 2024 – May 2024
+    highlights:
+      - Led weekly technical support sessions for 29 students.
+      - Assisted with debugging and GitHub issue resolution.
+
+  - organization: Chess Club – Allegheny College
+    roles:
+      - Vice President
+      - Media Manager
+    period: Aug 2021 – Dec 2023
+    highlights:
+      - Organized tournaments and increased club visibility.
+      - Grew membership using targeted social media campaigns.
+
+  - organization: Peer Mentoring Program
+    role: Mentor
+    period: Jan 2022 – May 2022
+    highlights:
+      - Mentored international students and organized integration activities.
