@@ -1,1 +1,10 @@
-Passionate about blending data analysis, programming, and finance, I possess a strong foundation in software engineering, data analytics, and strategic financial planning. I am keen to apply my technical skills and innovative insights in roles that challenge me to deliver impactful and efficient business solutions. With a steadfast commitment to continuous learning and skill enhancement, I am always ready to embrace new technologies and methodologies that can drive success and innovation in my work. I am eager to contribute to and grow within dynamic teams where I can further hone my abilities and make a significant impact.
+# LaTeX Resume System
+
+Built a professional resume using LaTeX to demonstrate structured document design, automation, and clean formatting.
+
+## Skills
+- LaTeX document structuring
+- Template creation
+- Professional report formatting
+- Technical writing
+- Automation of document generation
